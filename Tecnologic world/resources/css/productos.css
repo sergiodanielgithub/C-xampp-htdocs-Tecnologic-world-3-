@@ -1,0 +1,24 @@
+#footer .footer-top .footer-contact h5{
+    color:black;
+    font-weight: bolder;
+}
+
+#footer .footer-top .footer-links h5{
+   color:black;
+   font-weight: bolder;
+}
+
+#footer .footer-top .footer-links a{
+   text-decoration: none;
+   outline: none;
+   color: black;
+}
+
+.logo h6{
+   font-size: 15px;
+   font-weight: bolder;
+}
+
+#tarjeta .col{
+   margin-left: 100px;
+}

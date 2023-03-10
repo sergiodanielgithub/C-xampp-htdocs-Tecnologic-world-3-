@@ -1,0 +1,83 @@
+#carrito table{
+    border-collapse: collapse;
+    width: 100%;
+    table-layout: fixed;
+}
+
+#carrito table thead{
+    font-weight:700;
+}
+
+#carrito table thead td{
+    background-color: rgb(83, 165, 165);
+    color: black;
+    border: none;
+    padding: 6px;
+}
+
+#carrito table td{
+    border: 1px solid black;
+    text-align: center;
+}
+
+#carrito table td:nth-child(1){
+    width: 150px;
+}
+
+#carrito table td:nth-child(2){
+    width: 150px;
+}
+
+#carrito table td:nth-child(3){
+    width: 100px;
+}
+
+#carrito table td:nth-child(4){
+    width: 75px;
+}
+
+#carrito table td:nth-child(5){
+    width: 80px;
+}
+
+#carrito table td:nth-child(6){
+    width: 75px;
+}
+
+#carrito table tbody img{
+    width: 100px;
+    height: 80px;
+    object-fit: cover;
+}
+
+#container table tbody i{
+    color: black;
+}
+
+#card-bottom .total>div{
+    border: 1px solid black;;
+}
+
+#card-bottom .total h5{
+    background-color: rgb(83, 165, 165);
+    color: black;
+    border: none;
+    padding: 6px 12px;
+    font-weight: 700;
+}
+
+#card-bottom .total div>div{
+    padding: 0 12px;
+}
+
+#card-bottom button{
+    margin-bottom: 10px;
+    margin-left: 470px;
+}
+
+#seguir a{
+    text-decoration: none;
+    color: black;
+    font-weight:600;
+}
+
